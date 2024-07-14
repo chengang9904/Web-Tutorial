@@ -1,0 +1,62 @@
+# 5.1 React——配置环境、ES6语法补充、Components
+
+> 课堂笔记
+
+#### html文件
+
+<img src="http://cdn.cscat.cn/markdown/image-20240713204747999.png" alt="image-20240713204747999" style="zoom: 50%;" />
+
+<img src="http://cdn.cscat.cn/markdown/image-20240713205330011.png" alt="image-20240713205330011" style="zoom:50%;" />
+
+react的vdom
+
+<img src="http://cdn.cscat.cn/markdown/image-20240713205355683.png" alt="image-20240713205355683" style="zoom:50%;" />
+
+## 配置环境
+
+[React官网安装](https://zh-hans.reactjs.org/)
+
+[git环境](https://gitforwindows.org/)
+
+[Nodejs环境](https://nodejs.org/en/)
+
+### 安装 create-react-app
+
+进入git bash
+
+```
+npm i -g create-react-app
+```
+
+### vscode安装插件
+
+![image-20240713210212861](http://cdn.cscat.cn/markdown/image-20240713210212861.png)
+
+**`impc`**自动补全
+
+<img src="http://cdn.cscat.cn/markdown/image-20240713210344533.png" alt="image-20240713210344533" style="zoom: 67%;" />
+
+## 创建React项目
+
+**git bash**输入
+
+```
+create-react-app react-app
+```
+
+<img src="http://cdn.cscat.cn/markdown/image-20240713210811183.png" alt="image-20240713210811183" style="zoom:50%;" />
+
+安装成功了
+
+## 启动项目
+
+在项目根目录中，启动git bash
+
+```
+npm start
+```
+
+看到下面这个页面就成功了
+
+<img src="http://cdn.cscat.cn/markdown/image-20240713211132439.png" alt="image-20240713211132439" width=800px />
+
